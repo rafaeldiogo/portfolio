@@ -44,13 +44,13 @@ const Navbar = () => {
         </button>
       </div>
       <div
-        className={nav ? "fixed left-0 top-0 w-full h-screen bg-white/70" : ""}
+        className={nav ? "md:hidden fixed left-0 top-0 w-full h-screen bg-white/70" : ""}
       >
         <div
           className={
             nav
-              ? "fixed left-0 top-0 w-[75%] sm:w-[60%] md-[45%] h-screen bg-[#000000] p-10 ease-in duration-500"
-              : "fixed left-[-100%] top-0 ease-in duration-500"
+              ? "absolute w-[75%] sm:w-[60%] md-[45%] h-screen bg-[#000000] p-10 ease-in duration-500"
+              : "translate-x-[-100%] ease-in duration-500"
           }
         >
           <div>
