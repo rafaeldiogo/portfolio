@@ -1,6 +1,7 @@
 import Image from "next/image";
 import AboutImage from "../public/assets/about.jpg";
 import Link from "next/link";
+import React from "react";
 
 const About = () => {
   return (
