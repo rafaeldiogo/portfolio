@@ -18,8 +18,8 @@ const Main = () => {
             que sejam ao mesmo tempo bonitas e funcionais. Também tenho um pouco
             de experiência em design, o que me permite oferecer uma visão da
             experiência do usuário. Atualmente, estou focado em criar aplicações
-            web, enquanto aprendo tecnologias back-end para ampliar meu
-            conhecimento e oferecer soluções completas.
+            web, enquanto aprendo o framework Flutter para desenvolver
+            aplicativos mobile.
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300">
