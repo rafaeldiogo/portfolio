@@ -5,6 +5,8 @@ import { AiOutlineClose, AiOutlineMail, AiOutlineMenu } from "react-icons/ai";
 import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { useState } from "react";
+import React from "react";
+
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
